@@ -3,11 +3,13 @@
 This repository contains the datasets used in the [paper]() 
 
 ```
-@InProceedings{gan2019parasquad,
-  author    = {Gan, Wee Chung and Ng, Hwee Tou},
-  title     = {Improving the Robustness of Question Answering Systems to Question Paraphrasing},
-  booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
-  year      = {2019},
+@inproceedings{gan-ng-2019-improving,
+    title = "Improving the Robustness of Question Answering Systems to Question Paraphrasing",
+    author = "Gan, Wee Chung  and
+      Ng, Hwee Tou",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
 }
 ```
 
